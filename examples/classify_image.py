@@ -112,7 +112,8 @@ def main():
     classes = classify.get_classes(interpreter, args.top_k, args.threshold)
     print('%.1fms' % (inference_time * 1000))
 
-  print('-------RESULTS--------')
+  print('------------RESULTS-------------')
+  print('-------BMAS Dev V0.000001-------')
   for c in classes:
     print('%s: %.5f' % (labels.get(c.id, c.id), c.score))
 
