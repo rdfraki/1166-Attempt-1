@@ -1,4 +1,5 @@
-0 BridgestoneTour
-1 CallawayChrome
-2 TaylormadeS
-3 TaylormadeTP5x
+0 Bridgestone
+1 Callaway
+2 Taylormade S
+3 Taylormade TP5x
+4 Nothing
